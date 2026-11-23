@@ -1,0 +1,137 @@
+experiment,visits/yr,threshold,group,comparison,d recall,95% CI low,95% CI high
+Exp 1 (one-at-a-time),8,0.2,all stations,HistGB_nb - Persistence,0.04723032069970845,0.0313911588296493,0.06242647168357242
+Exp 1 (one-at-a-time),8,0.2,all stations,HistGB_nb - Clim_freq_station,0.020408163265306145,0.004682465311419401,0.03622411995567702
+Exp 1 (one-at-a-time),8,0.2,all stations,HistGB_nb - Observation-only,0.09776482021379984,0.06737475957741378,0.1309184029838678
+Exp 1 (one-at-a-time),8,0.2,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.07533333333333325,0.05386577799547498,0.09395067419523317
+Exp 1 (one-at-a-time),8,0.2,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.01866666666666661,-0.0070304291802953936,0.04489206096451317
+Exp 1 (one-at-a-time),8,0.2,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.14833333333333332,0.1073739813830644,0.18672060116090938
+Exp 1 (one-at-a-time),8,0.2,225 other stations,HistGB_nb - Persistence,0.007925407925407857,-0.0019456357038619308,0.01781284078516902
+Exp 1 (one-at-a-time),8,0.2,225 other stations,HistGB_nb - Clim_freq_station,0.022843822843822803,0.013256532839407332,0.03280186538283568
+Exp 1 (one-at-a-time),8,0.2,225 other stations,HistGB_nb - Observation-only,0.027039627039627034,0.01650654305435143,0.03690117716603955
+Exp 1 (one-at-a-time),8,0.2,'emerging' stations (n=12),HistGB_nb - Persistence,0.0,0.0,0.0
+Exp 1 (one-at-a-time),8,0.2,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),8,0.2,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 1 (one-at-a-time),8,0.3,all stations,HistGB_nb - Persistence,0.03341384863123997,0.014894715248972313,0.050996545698102184
+Exp 1 (one-at-a-time),8,0.3,all stations,HistGB_nb - Clim_freq_station,0.018921095008051503,0.00143985390030062,0.03868272274011363
+Exp 1 (one-at-a-time),8,0.3,all stations,HistGB_nb - Observation-only,0.08776167471819651,0.05320288120208001,0.12437773719248539
+Exp 1 (one-at-a-time),8,0.3,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.057909604519774005,0.02990565379319974,0.08646703912306199
+Exp 1 (one-at-a-time),8,0.3,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.020480225988700584,-0.009655910609858006,0.05501977401129936
+Exp 1 (one-at-a-time),8,0.3,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.1362994350282486,0.0872010667931735,0.17864440582516994
+Exp 1 (one-at-a-time),8,0.3,225 other stations,HistGB_nb - Persistence,0.000936329588014928,-0.008698719423357053,0.011494252873563208
+Exp 1 (one-at-a-time),8,0.3,225 other stations,HistGB_nb - Clim_freq_station,0.016853932584269593,0.00520833333333337,0.027549023438772042
+Exp 1 (one-at-a-time),8,0.3,225 other stations,HistGB_nb - Observation-only,0.023408239700374533,0.01195012235922777,0.03428727556596416
+Exp 1 (one-at-a-time),8,0.3,'emerging' stations (n=12),HistGB_nb - Persistence,0.0,0.0,0.0
+Exp 1 (one-at-a-time),8,0.3,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),8,0.3,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 1 (one-at-a-time),6,0.2,all stations,HistGB_nb - Persistence,0.06239067055393588,0.03457043499860276,0.09043708102439096
+Exp 1 (one-at-a-time),6,0.2,all stations,HistGB_nb - Clim_freq_station,0.026530612244898055,0.004222904403440355,0.04803750456474574
+Exp 1 (one-at-a-time),6,0.2,all stations,HistGB_nb - Observation-only,0.11399416909620996,0.07172859231637646,0.16085507190031706
+Exp 1 (one-at-a-time),6,0.2,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.10550000000000004,0.06561356819581687,0.14375032548014832
+Exp 1 (one-at-a-time),6,0.2,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.030500000000000083,-0.007658481808253134,0.06724403835448357
+Exp 1 (one-at-a-time),6,0.2,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.17700000000000005,0.11687957412586959,0.23582307974559683
+Exp 1 (one-at-a-time),6,0.2,225 other stations,HistGB_nb - Persistence,0.00209790209790206,-0.009787271960953683,0.014317668814475529
+Exp 1 (one-at-a-time),6,0.2,225 other stations,HistGB_nb - Clim_freq_station,0.020979020979020935,0.010465314009661771,0.03154468409468138
+Exp 1 (one-at-a-time),6,0.2,225 other stations,HistGB_nb - Observation-only,0.025874125874125853,0.01492370983123022,0.03602227342549921
+Exp 1 (one-at-a-time),6,0.2,'emerging' stations (n=12),HistGB_nb - Persistence,-0.01851851851851849,-0.051724137931034475,0.0
+Exp 1 (one-at-a-time),6,0.2,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),6,0.2,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 1 (one-at-a-time),6,0.3,all stations,HistGB_nb - Persistence,0.05555555555555547,0.02352071606408317,0.08527876636723507
+Exp 1 (one-at-a-time),6,0.3,all stations,HistGB_nb - Clim_freq_station,0.02898550724637672,0.0034247348721148044,0.055425924566599456
+Exp 1 (one-at-a-time),6,0.3,all stations,HistGB_nb - Observation-only,0.11292270531400961,0.061338030219220366,0.16700675485505212
+Exp 1 (one-at-a-time),6,0.3,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.09745762711864403,0.05127284595300254,0.14079272177098265
+Exp 1 (one-at-a-time),6,0.3,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.032838983050847426,-0.009803921568627416,0.07943118756936729
+Exp 1 (one-at-a-time),6,0.3,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.17796610169491522,0.10184670817281231,0.2427877394569412
+Exp 1 (one-at-a-time),6,0.3,225 other stations,HistGB_nb - Persistence,0.0,-0.01316587459214077,0.015451620326287064
+Exp 1 (one-at-a-time),6,0.3,225 other stations,HistGB_nb - Clim_freq_station,0.02387640449438211,0.009345482866043614,0.037455973103568706
+Exp 1 (one-at-a-time),6,0.3,225 other stations,HistGB_nb - Observation-only,0.026685393258427004,0.013113920129622519,0.040001291989664116
+Exp 1 (one-at-a-time),6,0.3,'emerging' stations (n=12),HistGB_nb - Persistence,0.0,0.0,0.0
+Exp 1 (one-at-a-time),6,0.3,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),6,0.3,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.2,all stations,HistGB_nb - Persistence,0.07482993197278914,0.04013224356679792,0.11069022463840794
+Exp 1 (one-at-a-time),4,0.2,all stations,HistGB_nb - Clim_freq_station,0.027599611273080693,0.006640949314541424,0.04762232716778171
+Exp 1 (one-at-a-time),4,0.2,all stations,HistGB_nb - Observation-only,0.12361516034985426,0.0734260824397373,0.1804581074170447
+Exp 1 (one-at-a-time),4,0.2,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.1283333333333333,0.0798515138139378,0.175249549365711
+Exp 1 (one-at-a-time),4,0.2,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.03199999999999997,-0.0007446332713985785,0.06818199838537611
+Exp 1 (one-at-a-time),4,0.2,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.196,0.12371854382797697,0.268793457913762
+Exp 1 (one-at-a-time),4,0.2,225 other stations,HistGB_nb - Persistence,0.0,-0.010034800086896136,0.01069238613340997
+Exp 1 (one-at-a-time),4,0.2,225 other stations,HistGB_nb - Clim_freq_station,0.021445221445221485,0.0104002970146943,0.032111519163750525
+Exp 1 (one-at-a-time),4,0.2,225 other stations,HistGB_nb - Observation-only,0.02237762237762242,0.011388049681101074,0.032866093617680746
+Exp 1 (one-at-a-time),4,0.2,'emerging' stations (n=12),HistGB_nb - Persistence,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.2,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.2,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.3,all stations,HistGB_nb - Persistence,0.07125603864734298,0.030187323413895954,0.11387492346715648
+Exp 1 (one-at-a-time),4,0.3,all stations,HistGB_nb - Clim_freq_station,0.025362318840579712,-0.0010549984978218364,0.05090766607396981
+Exp 1 (one-at-a-time),4,0.3,all stations,HistGB_nb - Observation-only,0.12359098228663445,0.06004052684903752,0.19202819213643718
+Exp 1 (one-at-a-time),4,0.3,56 pre-2008 high-risk stations,HistGB_nb - Persistence,0.12570621468926557,0.06284020556135811,0.1820623144406244
+Exp 1 (one-at-a-time),4,0.3,56 pre-2008 high-risk stations,HistGB_nb - Clim_freq_station,0.02754237288135597,-0.017467687074829954,0.07695282289249804
+Exp 1 (one-at-a-time),4,0.3,56 pre-2008 high-risk stations,HistGB_nb - Observation-only,0.19844632768361586,0.10331762660806951,0.28457375478927205
+Exp 1 (one-at-a-time),4,0.3,225 other stations,HistGB_nb - Persistence,-0.0009363295880149836,-0.01642194012883666,0.015954468090171158
+Exp 1 (one-at-a-time),4,0.3,225 other stations,HistGB_nb - Clim_freq_station,0.02247191011235955,0.009707247487651163,0.0357413657398822
+Exp 1 (one-at-a-time),4,0.3,225 other stations,HistGB_nb - Observation-only,0.024344569288389517,0.011395275980649334,0.03720547619633007
+Exp 1 (one-at-a-time),4,0.3,'emerging' stations (n=12),HistGB_nb - Persistence,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.3,'emerging' stations (n=12),HistGB_nb - Clim_freq_station,0.0,0.0,0.0
+Exp 1 (one-at-a-time),4,0.3,'emerging' stations (n=12),HistGB_nb - Observation-only,0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,all stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,225 other stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,all stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.016520894071914483,-0.026597215657814643,-0.006240805818895053
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.02366666666666667,-0.04284328266894197,-0.008037283411593425
+Exp 5 (allocation),4,0.2,225 other stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.006526806526806539,-0.011035803513495498,-0.0023167042944189148
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.2192905733722061,0.12144473759561504,0.304203893891524
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.4356666666666667,0.3065508137926148,0.5322769255428728
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.13960155490767734,0.07776136148904009,0.1993669042614778
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.2895,0.2076608098809213,0.3805457576775103
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.07004662004662005,-0.07820859078251721,-0.06221401907781526
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.3192419825072887,0.22946240277638233,0.40459393731022514
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.6666666666666667,0.6666666666666667,0.6666666666666667
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.23420796890184647,0.1695315595933377,0.2987537577715313
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.492,0.4105230494057434,0.5701249067859806
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.12634032634032635,-0.14222348126948484,-0.10918439337399241
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.38605442176870747,0.29972890392888146,0.46067956349206346
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.6666666666666667,0.6666666666666667,0.6666666666666667
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.0064102564102563875,-0.11719407846980252,0.09921354755622569
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.25,-0.25,-0.25
+Exp 5 (allocation),4,0.2,all stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.29071914480077743,0.22446468427738425,0.35483771623408356
+Exp 5 (allocation),4,0.2,56 pre-2008 high-risk stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.492,0.4105230494057434,0.5701249067859806
+Exp 5 (allocation),4,0.2,225 other stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.00920745920745919,-0.09330795338968921,0.10858868606837638
+Exp 5 (allocation),4,0.2,'emerging' stations (n=12),"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.25,-0.25,-0.25
+Exp 5 (allocation),4,0.3,all stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.3,225 other stations,"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Uniform 4/yr, synchronised [Observation only] - Uniform 4/yr, staggered [Observation only]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.3,all stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.010869565217391353,-0.020108490777427185,-0.00244192799070847
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.01412429378531077,-0.03255568800483935,-0.0005772646536412819
+Exp 5 (allocation),4,0.3,225 other stations,"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.006554307116104885,-0.01250027926720287,-0.0011904761904761862
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Uniform 4/yr, synchronised [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.0,0.0,0.0
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.2327898550724638,0.12839161538219704,0.3326127862337712
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.47122175141242945,0.34605494247151236,0.5626653848738851
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.1504629629629629,0.08746218645115704,0.21033515535097808
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.32115112994350276,0.24096448452157168,0.4145164318832351
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.0758426966292135,-0.08410530223619844,-0.0657758451122215
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.08333333333333331,-0.08333333333333331,-0.08333333333333331
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.3083735909822866,0.20392907924004947,0.4019687912478424
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.6666666666666667,0.6666666666666667,0.6666666666666667
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.22423510466988728,0.1565278685197049,0.29413686497326197
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.5007062146892656,0.41128629250100207,0.602210648641733
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.14232209737827714,-0.15833398234683282,-0.12471480113173752
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.16666666666666666,-0.16666666666666666,-0.16666666666666666
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.37550322061191627,0.2773306500831572,0.45758693531488726
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.6666666666666667,0.6666666666666667,0.6666666666666667
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.010533707865168496,-0.1389066301703163,0.10965428924499722
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",-0.25,-0.25,-0.25
+Exp 5 (allocation),4,0.3,all stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.28663446054750397,0.21802350458878034,0.35509818936764004
+Exp 5 (allocation),4,0.3,56 pre-2008 high-risk stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.5007062146892656,0.41128629250100207,0.602210648641733
+Exp 5 (allocation),4,0.3,225 other stations,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.0028089887640449507,-0.11958870304461146,0.11348274139752985
+Exp 5 (allocation),4,0.3,'emerging' stations (n=12),"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",-0.25,-0.25,-0.25

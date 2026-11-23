@@ -1,0 +1,49 @@
+visits/yr,threshold,strategy,comparison,cluster,d recall,95% CI low,95% CI high,d PR-AUC
+6,0.2,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,station,0.0005830903790087216,-0.01703803417340093,0.017151263545266453,
+6,0.2,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,station,0.014285714285714346,0.002183090135807181,0.02686937254276066,
+6,0.2,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.001457725947521915,-0.004930362532275856,0.008472035260211506,
+6,0.2,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.007580174927113714,0.0002673397057580518,0.016303164679654942,
+6,0.2,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,year,0.0005830903790087216,-0.009050402948064548,0.007937199269951855,
+6,0.2,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,year,0.014285714285714346,0.003028026839261347,0.022760809332820944,
+6,0.2,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.001457725947521915,-0.005674832339791297,0.006320446949224836,
+6,0.2,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.007580174927113714,-0.00194647201946474,0.016254861448711667,
+6,0.3,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,station,-0.0036231884057971175,-0.030035707398636476,0.021062703015366967,
+6,0.3,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,station,0.010265700483091722,-0.0030129665001469657,0.024675843404921276,
+6,0.3,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.01207729468599028,0.002727515562575539,0.020716909718356883,
+6,0.3,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.0157004830917874,0.005134553821528593,0.027501805832255588,
+6,0.3,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,year,-0.0036231884057971175,-0.0148412697353138,0.006173133171230246,
+6,0.3,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,year,0.010265700483091722,-0.003815087678907205,0.02122514821498214,
+6,0.3,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.01207729468599028,0.0022613702734159526,0.021611304972960283,
+6,0.3,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.0157004830917874,-0.0024304751350767845,0.029969547076390015,
+4,0.2,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,station,0.0005830903790087771,-0.01988509602921643,0.01772049136632348,
+4,0.2,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,station,0.016520894071914483,0.006240805818895053,0.026597215657814643,
+4,0.2,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.0046647230320699395,-0.001816093770434618,0.010964489320493702,
+4,0.2,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.01885325558794948,0.007172033615547058,0.03138474543490217,
+4,0.2,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,year,0.0005830903790087771,-0.006938543177648469,0.006644002176584171,
+4,0.2,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,year,0.016520894071914483,0.00911865871952172,0.023026087870265048,
+4,0.2,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.0046647230320699395,-0.006018640370810356,0.014609470779456544,
+4,0.2,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.01885325558794948,0.006191383158256128,0.03161159619419081,
+4,0.3,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,station,-0.0008051529790660261,-0.026937801993295877,0.02329406454890894,
+4,0.3,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,station,0.010869565217391353,0.00244192799070847,0.02010849077742718,
+4,0.3,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.006843800322061222,-0.001101585386868857,0.014836995478882106,
+4,0.3,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,0.026167471819645682,0.012487490343654902,0.04022466991399197,
+4,0.3,Neighbour_ratio,network: staggered (graph colouring)  minus  network: synchronised,year,-0.0008051529790660261,-0.012102603138029393,0.006795020910174733,
+4,0.3,HistGB_nb,network: staggered (graph colouring)  minus  network: synchronised,year,0.010869565217391353,-0.003252004168670809,0.0213236179875441,
+4,0.3,Neighbour_ratio,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.006843800322061222,-0.008329354003430043,0.017760677628058535,
+4,0.3,HistGB_nb,one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),year,0.026167471819645682,0.011563193826820783,0.042223727422003275,
+6,0.2,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: synchronised,station,,0.02822787687958323,0.06893463342803278,0.04837664116102797
+6,0.2,HistGB_nb (PR-AUC),network: random phases  minus  network: synchronised,station,,0.02128091880393989,0.04993907955736629,0.036008723135303844
+6,0.2,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: random phases,station,,9.869388852740209e-06,0.026656298115702342,0.012367918025724123
+6,0.2,HistGB_nb (PR-AUC),one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,,-0.009850070222633189,0.021365268342798636,0.0033515087933473353
+6,0.3,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: synchronised,station,,0.01857585410358698,0.06029874497998492,0.03948396847566937
+6,0.3,HistGB_nb (PR-AUC),network: random phases  minus  network: synchronised,station,,0.009254225833289716,0.036381087086839396,0.02301969016009131
+6,0.3,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: random phases,station,,0.00292307616620996,0.028053112518844396,0.016464278315578063
+6,0.3,HistGB_nb (PR-AUC),one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,,-0.01923916602686477,0.018700462605181836,-0.003725336518585476
+4,0.2,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: synchronised,station,,0.015495836723823484,0.04545624444935496,0.030203814373535254
+4,0.2,HistGB_nb (PR-AUC),network: random phases  minus  network: synchronised,station,,0.018753969413747653,0.03942261415655214,0.028967012415295423
+4,0.2,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: random phases,station,,-0.007412244311667362,0.01018725098215383,0.0012368019582398304
+4,0.2,HistGB_nb (PR-AUC),one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,,0.018722137614490545,0.04489601271805298,0.02977021564072857
+4,0.3,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: synchronised,station,,0.012004191378620901,0.03286614848629386,0.022793168633142763
+4,0.3,HistGB_nb (PR-AUC),network: random phases  minus  network: synchronised,station,,0.0131499765960508,0.03329945249982499,0.023851756073249825
+4,0.3,HistGB_nb (PR-AUC),network: staggered (graph colouring)  minus  network: random phases,station,,-0.008627084810325902,0.006643284465637435,-0.0010585874401070616
+4,0.3,HistGB_nb (PR-AUC),one-at-a-time (neighbours monthly)  minus  network: staggered (graph colouring),station,,0.011239388156003158,0.034468387368159215,0.020630316692770073

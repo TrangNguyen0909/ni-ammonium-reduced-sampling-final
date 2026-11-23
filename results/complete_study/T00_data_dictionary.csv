@@ -1,0 +1,14 @@
+Column,Type / unit,Description,Example
+"X, Y",numeric (m),Point coordinates (identical to Easting/Northing; verified below),238299
+OBJECTID,integer,Record identifier in the provider's GIS layer,1
+StationCode,text,Monitoring station identifier (UKGBNI…),UKGBNIF10014
+OpenClosed,text,Station status: Open / Closed / blank,Open
+DateClosed,text,Closure date (mostly blank), 
+Location,text,"Site description (river name and access point, or lake/reservoir name)",GLENMORNANRATCATHERINESBR
+PrimaryBasin,text,River basin / catchment name,Foyle (with Deele)
+GridReference,text,Irish Grid letter-number reference,C384005
+"Easting, Northing",numeric (m),Grid coordinates used for distances between stations,238299
+Depth,numeric,Sampling depth (constant 0 = surface sample),0
+"Date, Time",date / time,Sampling date (yyyy/mm/dd) and time (hh:mm:ss),1995/06/02
+Q_NH4N,text,"Qualifier: '<' below limit of detection (value = LOD), '>' above range, blank = measured",
+NH4_N_mg_l_,numeric (mg/l N),Ammoniacal nitrogen concentration,0.05

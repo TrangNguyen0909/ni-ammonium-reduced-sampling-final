@@ -1,0 +1,5 @@
+design,nominal visits per station-year (equal station-years),planned visits per evaluated station-year,realised visits per evaluated station-year,share of evaluated station-years at monthly stations
+"Uniform 4/yr, staggered",4.0,4.0,3.7945958871353422,
+"Risk-based: 31 monthly, others 3/yr",3.99288256227758,3.890961262553802,3.691445480631277,0.09899569583931134
+"Risk-based: 56 monthly, others 2/yr",3.99288256227758,3.8292682926829267,3.6377929220468674,0.18292682926829268
+"Risk-based: 76 monthly, others 1/yr",3.9750889679715304,3.7855093256814922,3.601655906264945,0.2532281205164993

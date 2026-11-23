@@ -1,0 +1,16 @@
+check,result,detail
+"frequency climatologies = brute-force recomputation from visits <= t0 (evaluation, 480 random skipped months)",PASS,max |difference| = 0.00e+00; hidden-target/origin violations = 0
+reduced schedule respected: denominators smaller than if skipped months had been observed,PASS,423 of 480 checked months have fewer same-month visits than the full record
+"frequency climatologies = brute-force recomputation from visits <= t0 (development, 480 random skipped months)",PASS,max |difference| = 0.00e+00; hidden-target/origin violations = 0
+Beta-Binomial prior strength identical when all data from 2005 onwards are deleted,PASS,0.2: 3.5083 vs 3.5083; 0.3: 6.7442 vs 6.7442; 0.4: 8.4087 vs 8.4087; 0.6: 12.5012 vs 12.5012
+development items (2005-2007) and evaluation items (2008-2024) disjoint,PASS,"overlapping station-months = 0; last development target month index 215, first evaluation 216"
+development scores use information up to 2007 only (origin months),PASS,last development origin index 214
+"station-risk baseline: development ranking 1995-2004, evaluation ranking 1995-2007",PASS,"('eb', 1995, 2004), ('eb', 1995, 2007)"
+cut-offs of Persistence / neighbour-ratio / HistGB identical to Experiment 1,PASS,
+baseline cut-offs satisfy the false-alarm budget on 2005-2007 (or are the strictest candidate),PASS,max development false alarms/station-yr = 0.0996
+"all scores finite on every skipped month; probabilities strictly inside (0, 1)",PASS,
+same skipped months and same exceedance labels as Experiment 1 (T04),PASS,
+PR-AUC of Persistence / neighbour-ratio / HistGB unchanged (identical to T04),PASS,
+"scored months are inside the evaluation mask (complete station-years, sampled months)",PASS,
+one value per station-month (documented first-visit rule),PASS,8078 additional same-month records in the cohort resolved by the first-visit rule
+bootstrap replicates that could not be scored are counted,PASS,0 of 394000 replicates discarded over 394 bootstrap calls (max 0 in one call)

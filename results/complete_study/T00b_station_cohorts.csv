@@ -1,0 +1,5 @@
+cohort,stations,overlap with primary cohort,stations with >=1 complete year 2008-2024,complete station-years 2008-2024,stations complete in 2020-2024 (all 5 yrs)
+"PRIMARY: >=8 of 13 complete years 1995-2007, 3 in 2005-07",281,281,279,2788,12
+"cohort: >=6 of 13 complete years, >=2 in 2005-07",412,281,409,3865,20
+"cohort: >=10 of 13 complete years, 3 in 2005-07",171,171,169,1891,12
+previous rule: >=15 complete years 2005-2024 (uses evaluation-period data),153,116,153,2180,18

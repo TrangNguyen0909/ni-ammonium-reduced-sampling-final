@@ -1,0 +1,11 @@
+design,threshold,HistGB_nb recall (block-retrained),HistGB_nb recall (trained once)
+"Uniform 4/yr, synchronised",0.2,0.4215743440233236,0.42021379980563656
+"Uniform 4/yr, synchronised",0.3,0.41988727858293073,0.41586151368760066
+"Uniform 4/yr, staggered",0.2,0.4380952380952381,0.43731778425655976
+"Uniform 4/yr, staggered",0.3,0.4307568438003221,0.4323671497584541
+"Risk-based: 31 monthly, others 3/yr",0.2,0.5776967930029154,0.5755102040816327
+"Risk-based: 31 monthly, others 3/yr",0.3,0.581219806763285,0.5785024154589372
+"Risk-based: 56 monthly, others 2/yr",0.2,0.6723032069970846,0.6725947521865889
+"Risk-based: 56 monthly, others 2/yr",0.3,0.6549919484702094,0.6551932367149759
+"Risk-based: 76 monthly, others 1/yr",0.2,0.7288143828960155,0.7295432458697765
+"Risk-based: 76 monthly, others 1/yr",0.3,0.717391304347826,0.7174919484702094

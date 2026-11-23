@@ -1,0 +1,235 @@
+visits/yr,threshold,metric,comparison,cluster,difference,95% CI low,95% CI high
+8,0.2,PR-AUC,HistGB_nb - Clim_freq_station,station,0.10632257536916867,0.07807945117435568,0.14180503318785054
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.06122448979591835,0.014047395934258251,0.10867235986703129
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.020408163265306145,0.004682465311419401,0.03622411995567702
+8,0.2,PR-AUC,HistGB_nb - Clim_freq_station,year,0.10632257536916867,0.05916437691857234,0.1456292334934466
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.06122448979591835,0.018563899274742057,0.09401532490609715
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.020408163265306145,0.0061879664249141295,0.03133844163536563
+8,0.2,PR-AUC,HistGB_own - Clim_freq_station,station,0.04376350148251279,0.018644948335500296,0.06760775396401628
+8,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,-0.03032069970845483,-0.06575446434229751,0.0016089380417480586
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,-0.010106899902818212,-0.021918154780765767,0.0005363126805827033
+8,0.2,PR-AUC,HistGB_own - Clim_freq_station,year,0.04376350148251279,0.014781061815716182,0.06769216665637126
+8,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,-0.03032069970845483,-0.0693953101467097,-0.002725000656409201
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,-0.010106899902818212,-0.02313177004890315,-0.0009083335521363293
+8,0.2,PR-AUC,Clim_freq_station - Persistence,station,0.0747993452815219,0.023366596755856738,0.12015474651673937
+8,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.080466472303207,0.022386038809805987,0.13554765324560994
+8,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.026822157434402305,0.00746201293660205,0.045182551081869964
+8,0.2,PR-AUC,Clim_freq_station - Persistence,year,0.0747993452815219,0.04734891190145855,0.10923589069894117
+8,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.080466472303207,0.0382129175468118,0.13912005461576604
+8,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.026822157434402305,0.012737639182270638,0.046373351538588695
+8,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.19322499674019536,0.10123083259461066,0.2789792978721403
+8,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.23206997084548106,0.13846283707112203,0.3240051020408163
+8,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.0773566569484937,0.04615427902370733,0.10800170068027219
+8,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.19322499674019536,0.16260661931931725,0.2269881047291181
+8,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.23206997084548106,0.19531694660991877,0.28285089094288546
+8,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.0773566569484937,0.065105648869973,0.09428363031429518
+8,0.2,PR-AUC,HistGB_nb - Clim_conc,station,0.11849143488628877,0.0821356235835378,0.14027582335881988
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.11020408163265305,0.05799732596075378,0.1580151699643612
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.03673469387755102,0.019332441986917945,0.05267172332145375
+8,0.2,PR-AUC,HistGB_nb - Clim_conc,year,0.11849143488628877,0.07652336745425574,0.15004929129489655
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.11020408163265305,0.07685192362349172,0.13418790691087218
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.03673469387755102,0.025617307874497237,0.04472930230362409
+8,0.2,PR-AUC,HistGB_nb - Station_risk,station,0.12231586823093377,0.09049355609471217,0.17519805144310172
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.10262390670553936,0.029037068090762258,0.18328216674989714
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.03420796890184641,0.009679022696920725,0.061094055583299105
+8,0.2,PR-AUC,HistGB_nb - Station_risk,year,0.12231586823093377,0.09095913174784974,0.1505019903753637
+8,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.10262390670553936,0.07078229709985226,0.12930827135580053
+8,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.03420796890184641,0.023594099033284112,0.043102757118600114
+8,0.3,PR-AUC,HistGB_nb - Clim_freq_station,station,0.0860923607243782,0.05311217636112943,0.10831763972324748
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.05676328502415459,0.004319561700901862,0.11604816822034084
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.018921095008051503,0.00143985390030062,0.03868272274011363
+8,0.3,PR-AUC,HistGB_nb - Clim_freq_station,year,0.0860923607243782,0.047812974755585734,0.12234532247311794
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.05676328502415459,0.0110201932378981,0.09598659883510162
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.018921095008051503,0.003673397745966034,0.03199553294503387
+8,0.3,PR-AUC,HistGB_nb - Clim_freq_station,two-way,0.0860923607243782,0.028977491892377125,0.1300700239083495
+8,0.3,PR-AUC,HistGB_own - Clim_freq_station,station,0.040203111811799364,0.01236123007862584,0.05373054003791274
+8,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,-0.015700483091787454,-0.06072281350964447,0.02977767090855283
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,-0.00523349436392917,-0.02024093783654824,0.009925890302851034
+8,0.3,PR-AUC,HistGB_own - Clim_freq_station,year,0.040203111811799364,0.016625354029407492,0.06299047074262733
+8,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,-0.015700483091787454,-0.042314853858991835,0.005609755307291543
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,-0.00523349436392917,-0.014104951286330585,0.0018699184357638301
+8,0.3,PR-AUC,HistGB_own - Clim_freq_station,two-way,0.040203111811799364,-0.005919547213603925,0.07025226270384505
+8,0.3,PR-AUC,Clim_freq_station - Persistence,station,0.023896901814148663,-0.009901880686498572,0.07833704474392678
+8,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.043478260869565216,-0.028587323663818803,0.11446916255995253
+8,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.01449275362318847,-0.009529107887939564,0.03815638751998421
+8,0.3,PR-AUC,Clim_freq_station - Persistence,year,0.023896901814148663,0.00711925136557808,0.04788122988412361
+8,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.043478260869565216,-0.0012577514590155615,0.0986239674441205
+8,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.01449275362318847,-0.0004192504863386038,0.032874655814706895
+8,0.3,PR-AUC,Clim_freq_station - Persistence,two-way,0.023896901814148663,-0.016699758728271365,0.09208793263860648
+8,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.09567280149320964,0.03239722058492166,0.1801177126515581
+8,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.20652173913043478,0.08824002936920065,0.3295072108565658
+8,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.06884057971014501,0.029413343123066933,0.1098357369521886
+8,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.09567280149320964,0.07816040299625276,0.12059732385099764
+8,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.20652173913043478,0.16797533175485932,0.2515146568705913
+8,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.06884057971014501,0.05599177725161981,0.08383821895686379
+8,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,two-way,0.09567280149320964,0.030438574880740234,0.1964262214823443
+8,0.3,PR-AUC,HistGB_nb - Clim_conc,station,0.07587722029838309,0.03269809858351196,0.09857273216746454
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.08454106280193238,0.03413327615331429,0.1340125911909905
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.028180354267310803,0.011377758717771438,0.04467086373033024
+8,0.3,PR-AUC,HistGB_nb - Clim_conc,year,0.07587722029838309,0.0442662721840657,0.10667417773965644
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.08454106280193238,0.035256527450502416,0.1246509949033422
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.028180354267310803,0.01175217581683414,0.04155033163444743
+8,0.3,PR-AUC,HistGB_nb - Clim_conc,two-way,0.07587722029838309,0.01742131113229248,0.11250895879999989
+8,0.3,PR-AUC,HistGB_nb - Station_risk,station,0.058382586899918903,0.037418525686236596,0.09652126457541935
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.06159420289855072,-0.00964419948598341,0.14521552772456608
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.020531400966183555,-0.003214733161994418,0.048405175908188755
+8,0.3,PR-AUC,HistGB_nb - Station_risk,year,0.058382586899918903,0.028889127725154385,0.0902497386653566
+8,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.06159420289855072,0.024432621712703845,0.09798949722159493
+8,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.020531400966183555,0.008144207237567877,0.03266316574053168
+8,0.3,PR-AUC,HistGB_nb - Station_risk,two-way,0.058382586899918903,0.02479553116118677,0.11543474459679022
+6,0.2,PR-AUC,HistGB_nb - Clim_freq_station,station,0.09979378203908607,0.07177359359434078,0.13360184292148208
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.053061224489795916,0.008445808806880579,0.0960750091294915
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.026530612244898055,0.004222904403440355,0.04803750456474574
+6,0.2,PR-AUC,HistGB_nb - Clim_freq_station,year,0.09979378203908607,0.053799382263654605,0.136871657438707
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.053061224489795916,0.0174213926885365,0.08430478669685834
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.026530612244898055,0.00871069634426821,0.0421523933484292
+6,0.2,PR-AUC,HistGB_own - Clim_freq_station,station,0.03696565888620623,0.012802188087895601,0.06215303749058237
+6,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,0.0023323615160349975,-0.03069748078161564,0.03296788827610745
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,0.0011661807580175543,-0.015348740390807766,0.01648394413805367
+6,0.2,PR-AUC,HistGB_own - Clim_freq_station,year,0.03696565888620623,0.007417668952898202,0.06112787998845752
+6,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,0.0023323615160349975,-0.017807942506170963,0.01804143299704179
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,0.0011661807580175543,-0.008903971253085426,0.009020716498520865
+6,0.2,PR-AUC,Clim_freq_station - Persistence,station,0.07482000122336388,0.021696356498301532,0.12070959541172545
+6,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.0717201166180758,0.012542259433213071,0.1281517436123682
+6,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.03586005830903782,0.0062711297166066025,0.0640758718061841
+6,0.2,PR-AUC,Clim_freq_station - Persistence,year,0.07482000122336388,0.045631043931372434,0.1096826440024218
+6,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.0717201166180758,0.03353109025995272,0.11729123571776684
+6,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.03586005830903782,0.01676554512997636,0.05864561785888338
+6,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.19324845005178792,0.10125051129986629,0.27909754962860583
+6,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.1749271137026239,0.09029019325991725,0.2632304731707773
+6,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.08746355685131191,0.0451450966299586,0.1316152365853887
+6,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.19324845005178792,0.16285249210859426,0.2270103781723664
+6,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.1749271137026239,0.1412433120550611,0.21385803223612662
+6,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.08746355685131191,0.07062165602753052,0.10692901611806332
+6,0.2,PR-AUC,HistGB_nb - Clim_conc,station,0.11195997388262108,0.07445347707256378,0.1335934470286888
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.07405247813411078,0.020633460170918844,0.11779035648790089
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.03702623906705549,0.010316730085459382,0.05889517824395041
+6,0.2,PR-AUC,HistGB_nb - Clim_conc,year,0.11195997388262108,0.07415771699771857,0.14127164923428343
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.07405247813411078,0.039966757766309834,0.10036075012941709
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.03702623906705549,0.019983378883154847,0.05018037506470864
+6,0.2,PR-AUC,HistGB_nb - Station_risk,station,0.11578440722726607,0.08458788181403694,0.16743352847899326
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.0618075801749271,-0.00583332787223937,0.13259280435232507
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.03090379008746358,-0.002916663936119712,0.06629640217616244
+6,0.2,PR-AUC,HistGB_nb - Station_risk,year,0.11578440722726607,0.08726883278726971,0.14101374460147012
+6,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.0618075801749271,0.028753338024414026,0.08951346765486295
+6,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.03090379008746358,0.014376669012207027,0.04475673382743147
+6,0.3,PR-AUC,HistGB_nb - Clim_freq_station,station,0.08288548025901993,0.05269584035077722,0.10476637995177862
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.05797101449275363,0.0068494697442295525,0.11085184913319886
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.02898550724637672,0.0034247348721148044,0.055425924566599456
+6,0.3,PR-AUC,HistGB_nb - Clim_freq_station,year,0.08288548025901993,0.04750850372918082,0.11514601135124279
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.05797101449275363,0.019143697174126187,0.08626629565564242
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.02898550724637672,0.009571848587063054,0.04313314782782128
+6,0.3,PR-AUC,HistGB_nb - Clim_freq_station,two-way,0.08288548025901993,0.02979026366010777,0.1254273887806837
+6,0.3,PR-AUC,HistGB_own - Clim_freq_station,station,0.031302330880124574,0.0025101289884355456,0.045245036705414375
+6,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,0.0024154589371980784,-0.0395409964833391,0.04879893984634479
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,0.0012077294685990392,-0.019770498241669494,0.024399469923172424
+6,0.3,PR-AUC,HistGB_own - Clim_freq_station,year,0.031302330880124574,0.007716820351843115,0.052814635076767785
+6,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,0.0024154589371980784,-0.02765500628403856,0.021106496412410313
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,0.0012077294685990392,-0.013827503142019212,0.010553248206205209
+6,0.3,PR-AUC,HistGB_own - Clim_freq_station,two-way,0.031302330880124574,-0.015238092784322789,0.06402529487014458
+6,0.3,PR-AUC,Clim_freq_station - Persistence,station,0.0239876219486838,-0.010670222258258559,0.07729416976662355
+6,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.05314009661835749,-0.020176325000366126,0.12166838089402426
+6,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.02657004830917875,-0.010088162500183084,0.06083419044701207
+6,0.3,PR-AUC,Clim_freq_station - Persistence,year,0.0239876219486838,0.006315919558539871,0.04865100618467245
+6,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.05314009661835749,0.01501220310859629,0.10546942857370531
+6,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.02657004830917875,0.007506101554298103,0.05273471428685264
+6,0.3,PR-AUC,Clim_freq_station - Persistence,two-way,0.0239876219486838,-0.016774438221520693,0.09337961840032062
+6,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.09568652127071962,0.03240739068766798,0.18013369110712102
+6,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.1678743961352657,0.05286543159609121,0.2874803524648726
+6,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.08393719806763289,0.02643271579804562,0.14374017623243626
+6,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.09568652127071962,0.07826092708664244,0.12060065176988458
+6,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.1678743961352657,0.13755687855787477,0.21022325394198182
+6,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.08393719806763289,0.06877843927893733,0.1051116269709909
+6,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,two-way,0.09568652127071962,0.030438704339466254,0.19646643232773273
+6,0.3,PR-AUC,HistGB_nb - Clim_conc,station,0.07266823915423601,0.03185602937619775,0.09527030353103524
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.05797101449275363,0.008144092372424359,0.10034645355529974
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.02898550724637672,0.004072046186212192,0.050173226777649835
+6,0.3,PR-AUC,HistGB_nb - Clim_conc,year,0.07266823915423601,0.04455689463628401,0.09874547689499964
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.05797101449275363,0.019887488280029196,0.08759725125383158
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.02898550724637672,0.009943744140014628,0.04379862562691586
+6,0.3,PR-AUC,HistGB_nb - Clim_conc,two-way,0.07266823915423601,0.016748620202037073,0.10935387795659278
+6,0.3,PR-AUC,HistGB_nb - Station_risk,station,0.05517360575577182,0.03590587259772268,0.09142518630871083
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.0929951690821256,0.021973296199213607,0.16605654028832478
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.046497584541062786,0.010986648099606778,0.08302827014416238
+6,0.3,PR-AUC,HistGB_nb - Station_risk,year,0.05517360575577182,0.02873299354146266,0.08076159889922825
+6,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.0929951690821256,0.06578139805323457,0.125
+6,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.046497584541062786,0.03289069902661722,0.0625
+6,0.3,PR-AUC,HistGB_nb - Station_risk,two-way,0.05517360575577182,0.0240268464943742,0.10689447422443486
+4,0.2,PR-AUC,HistGB_nb - Clim_freq_station,station,0.09432559929423667,0.06707288636523127,0.12471845705006812
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.041399416909620984,0.009961423971812164,0.07143349075167256
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.027599611273080693,0.006640949314541424,0.04762232716778171
+4,0.2,PR-AUC,HistGB_nb - Clim_freq_station,year,0.09432559929423667,0.048462948754569135,0.13280965656118576
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.041399416909620984,0.003795330457744817,0.07732668233380034
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.027599611273080693,0.0025302203051631752,0.05155112155586685
+4,0.2,PR-AUC,HistGB_own - Clim_freq_station,station,0.022940755681610858,-2.6305146976280077e-05,0.04684633465504562
+4,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,-0.006997084548104965,-0.03470237973466445,0.0177871898540667
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,-0.0046647230320699395,-0.023134919823109643,0.0118581265693778
+4,0.2,PR-AUC,HistGB_own - Clim_freq_station,year,0.022940755681610858,-0.005448489586004949,0.04467634187283774
+4,0.2,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,-0.006997084548104965,-0.027952050927036034,0.010119839694953508
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,-0.0046647230320699395,-0.01863470061802406,0.0067465597966356716
+4,0.2,PR-AUC,Clim_freq_station - Persistence,station,0.09381985240738591,0.03944707976772608,0.13786729000297399
+4,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.07084548104956268,0.017867763672675382,0.12324103510779132
+4,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.04723032069970845,0.011911842448450236,0.08216069007186083
+4,0.2,PR-AUC,Clim_freq_station - Persistence,year,0.09381985240738591,0.06656416631199591,0.12616880845313236
+4,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.07084548104956268,0.03671199961719348,0.11430982112922243
+4,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.04723032069970845,0.024474666411462273,0.07620654741948162
+4,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.19319725592433448,0.10123930638252426,0.27891205358959886
+4,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.14402332361516035,0.06827325422440352,0.2262735319476081
+4,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.09601554907677357,0.04551550281626902,0.15084902129840544
+4,0.2,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.19319725592433448,0.16237920044268425,0.2269752052057401
+4,0.2,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.14402332361516035,0.11029692254078036,0.18212822048952632
+4,0.2,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.09601554907677357,0.07353128169385359,0.12141881365968421
+4,0.2,PR-AUC,HistGB_nb - Clim_conc,station,0.10650249113095767,0.06999716774385624,0.12820759914551702
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.04723032069970845,0.0005010803663570606,0.08605584724536526
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.0314868804664723,0.00033405357757135566,0.057370564830243526
+4,0.2,PR-AUC,HistGB_nb - Clim_conc,year,0.10650249113095767,0.0653787476501846,0.13740257434437783
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.04723032069970845,0.01396173509439887,0.07770744549916153
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.0314868804664723,0.009307823396265895,0.05180496366610765
+4,0.2,PR-AUC,HistGB_nb - Station_risk,station,0.11032692447560266,0.0800181761449551,0.15854454061053705
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.0857142857142857,0.021374372741923057,0.1474501095013477
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.05714285714285716,0.01424958182794874,0.09830007300089848
+4,0.2,PR-AUC,HistGB_nb - Station_risk,year,0.11032692447560266,0.08081922797275792,0.13783996128020493
+4,0.2,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.0857142857142857,0.057805697934163354,0.11590858058453203
+4,0.2,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.05714285714285716,0.03853713195610887,0.07727238705635468
+4,0.3,PR-AUC,HistGB_nb - Clim_freq_station,station,0.07736672265411956,0.04301495798851789,0.09808336263446345
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,station,0.03804347826086957,-0.001582497746732753,0.07636149911095474
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,station,0.025362318840579712,-0.0010549984978218364,0.05090766607396981
+4,0.3,PR-AUC,HistGB_nb - Clim_freq_station,year,0.07736672265411956,0.040997984480109356,0.11348149896063113
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_freq_station,year,0.03804347826086957,-0.0016378625192850198,0.07307472347067845
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_freq_station,year,0.025362318840579712,-0.001091908346189977,0.048716482313785635
+4,0.3,PR-AUC,HistGB_nb - Clim_freq_station,two-way,0.07736672265411956,0.021919714512747646,0.12000620161417902
+4,0.3,PR-AUC,HistGB_own - Clim_freq_station,station,0.022235629392905437,-0.01007291639372345,0.034568913971363996
+4,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,station,-0.013888888888888867,-0.044656175349136344,0.014112278640734456
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,station,-0.009259259259259245,-0.02977078356609086,0.009408185760489601
+4,0.3,PR-AUC,HistGB_own - Clim_freq_station,year,0.022235629392905437,0.0012917354325236012,0.04131156486432302
+4,0.3,"recall, skipped months (FA-budget)",HistGB_own - Clim_freq_station,year,-0.013888888888888867,-0.038405706622271565,0.0029943722662977247
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_own - Clim_freq_station,year,-0.009259259259259245,-0.025603804414847685,0.0019962481775318173
+4,0.3,PR-AUC,HistGB_own - Clim_freq_station,two-way,0.022235629392905437,-0.029156138432654136,0.046041494341025814
+4,0.3,PR-AUC,Clim_freq_station - Persistence,station,0.03482643148255474,-0.0027149870933114383,0.08975200184559136
+4,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,station,0.06884057971014491,-0.004337953981380129,0.14021394056040704
+4,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,station,0.04589371980676327,-0.0028919693209200877,0.09347596037360464
+4,0.3,PR-AUC,Clim_freq_station - Persistence,year,0.03482643148255474,0.018101177062850932,0.058786446116066336
+4,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Persistence,year,0.06884057971014491,0.03487031025028865,0.11079956380874274
+4,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Persistence,year,0.04589371980676327,0.023246873500192423,0.07386637587249516
+4,0.3,PR-AUC,Clim_freq_station - Persistence,two-way,0.03482643148255474,-0.007754434799861644,0.10703451048035179
+4,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,station,0.09562327504861574,0.032327668278247595,0.18008398106364787
+4,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.1473429951690821,0.03935502772537587,0.2591190136561011
+4,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,station,0.09822866344605474,0.026236685150250575,0.1727460091040674
+4,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,year,0.09562327504861574,0.07787427128722584,0.1205487706793395
+4,0.3,"recall, skipped months (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.1473429951690821,0.1184168245163036,0.18393805576185793
+4,0.3,"recall, all recorded exceedances (FA-budget)",Clim_freq_station - Clim_freq_network,year,0.09822866344605474,0.07894454967753577,0.12262537050790528
+4,0.3,PR-AUC,Clim_freq_station - Clim_freq_network,two-way,0.09562327504861574,0.030425912212763098,0.19629524795034003
+4,0.3,PR-AUC,HistGB_nb - Clim_conc,station,0.0671555934454933,0.020831638132091216,0.09204943723456141
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,station,0.03683574879227053,-0.006177764077270857,0.07608902635189478
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,station,0.024557165861513686,-0.004118509384847256,0.050726017567929854
+4,0.3,PR-AUC,HistGB_nb - Clim_conc,year,0.0671555934454933,0.034567629908118215,0.09726846872633128
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Clim_conc,year,0.03683574879227053,-0.00491830065359478,0.06989885327344496
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Clim_conc,year,0.024557165861513686,-0.0032788671023965023,0.04659923551563001
+4,0.3,PR-AUC,HistGB_nb - Clim_conc,two-way,0.0671555934454933,0.006964042269706929,0.10585731713362992
+4,0.3,PR-AUC,HistGB_nb - Station_risk,station,0.04966096004702911,0.03152827919334366,0.08374599405375997
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,station,0.052536231884057955,-0.023053067533291047,0.12518103762400629
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,station,0.03502415458937197,-0.015368711688860696,0.08345402508267087
+4,0.3,PR-AUC,HistGB_nb - Station_risk,year,0.04966096004702911,0.021222362331238618,0.08255243873822683
+4,0.3,"recall, skipped months (FA-budget)",HistGB_nb - Station_risk,year,0.052536231884057955,0.01548568922734662,0.09164626967766554
+4,0.3,"recall, all recorded exceedances (FA-budget)",HistGB_nb - Station_risk,year,0.03502415458937197,0.010323792818231071,0.061097513118443685
+4,0.3,PR-AUC,HistGB_nb - Station_risk,two-way,0.04966096004702911,0.012845751939073634,0.10221524803984143

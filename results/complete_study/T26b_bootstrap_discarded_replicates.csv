@@ -1,0 +1,395 @@
+call,replicates,discarded
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_freq_station,1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_own - Clim_freq_station,1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC two-way Clim_freq_station - Persistence,1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC two-way Clim_freq_station - Clim_freq_network,1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_conc,1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC two-way HistGB_nb - Station_risk,1000,0
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_freq_station,1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_own - Clim_freq_station,1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC two-way Clim_freq_station - Persistence,1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC two-way Clim_freq_station - Clim_freq_network,1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_conc,1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC two-way HistGB_nb - Station_risk,1000,0
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_nb - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_freq_station,1000,0
+PR-AUC HistGB_own - Clim_freq_station (station),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (station)",1000,0
+PR-AUC HistGB_own - Clim_freq_station (year),1000,0
+"recall, skipped months (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_own - Clim_freq_station (year)",1000,0
+PR-AUC two-way HistGB_own - Clim_freq_station,1000,0
+PR-AUC Clim_freq_station - Persistence (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (station)",1000,0
+PR-AUC Clim_freq_station - Persistence (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Persistence (year)",1000,0
+PR-AUC two-way Clim_freq_station - Persistence,1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (station),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (station)",1000,0
+PR-AUC Clim_freq_station - Clim_freq_network (year),1000,0
+"recall, skipped months (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+"recall, all recorded exceedances (FA-budget) Clim_freq_station - Clim_freq_network (year)",1000,0
+PR-AUC two-way Clim_freq_station - Clim_freq_network,1000,0
+PR-AUC HistGB_nb - Clim_conc (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (station)",1000,0
+PR-AUC HistGB_nb - Clim_conc (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Clim_conc (year)",1000,0
+PR-AUC two-way HistGB_nb - Clim_conc,1000,0
+PR-AUC HistGB_nb - Station_risk (station),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (station)",1000,0
+PR-AUC HistGB_nb - Station_risk (year),1000,0
+"recall, skipped months (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+"recall, all recorded exceedances (FA-budget) HistGB_nb - Station_risk (year)",1000,0
+PR-AUC two-way HistGB_nb - Station_risk,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0
+recall difference,1000,0

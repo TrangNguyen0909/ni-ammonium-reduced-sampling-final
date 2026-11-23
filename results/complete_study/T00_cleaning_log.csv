@@ -1,0 +1,10 @@
+Step,Records,Stations,Decision
+Raw records,174667,1184,-
+"Structural errors (non-numeric, invalid dates, negative, duplicates)",0,0,none found
+Flag: censored below LOD,52951,-,retained; value = LOD; non-exceedance
+Flag: extreme value,68,-,retained (removed in sensitivity run)
+Flag: missing sampling time,8135,-,retained (time not used)
+Exclude lake/reservoir sites,10894,419,excluded
+River sites,163773,765,-
+River sites with >= 8 monthly-complete years 1995-2007 and 3 in 2005-2007,85819,281,analysed (pre-2008 cohort)
+(for reference) all sites meeting the record-length rule,88637,290,9 lake/reservoir sites removed

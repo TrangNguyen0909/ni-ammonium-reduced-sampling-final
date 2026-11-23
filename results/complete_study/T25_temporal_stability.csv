@@ -1,0 +1,95 @@
+experiment,visits/yr,period,strategy,recorded exceedances,recall,PR-AUC (skipped months)
+Exp 1 (one-at-a-time),8,2008-2015,Observation-only,390.0,0.6666666666666666,
+Exp 1 (one-at-a-time),8,2008-2015,Persistence,390.0,0.7247863247863248,0.11512798849351867
+Exp 1 (one-at-a-time),8,2008-2015,Neighbour_ratio,390.0,0.7222222222222222,0.14716065042461066
+Exp 1 (one-at-a-time),8,2008-2015,HistGB_own,390.0,0.7555555555555555,0.19943750314080494
+Exp 1 (one-at-a-time),8,2008-2015,HistGB_nb,390.0,0.770940170940171,0.2258020787275666
+Exp 1 (one-at-a-time),8,2008-2015,Clim_freq_station,390.0,0.7589743589743589,0.15166372750346513
+Exp 1 (one-at-a-time),8,2008-2015,Clim_freq_network,390.0,0.6666666666666666,0.030809323003526106
+Exp 1 (one-at-a-time),8,2008-2015,Clim_conc,390.0,0.7452991452991453,0.1522676634253843
+Exp 1 (one-at-a-time),8,2008-2015,Station_risk,390.0,0.7615384615384615,0.19044063949489495
+Exp 1 (one-at-a-time),8,2016-2024,Observation-only,438.0,0.6666666666666666,
+Exp 1 (one-at-a-time),8,2016-2024,Persistence,438.0,0.7176560121765602,0.0948265577969397
+Exp 1 (one-at-a-time),8,2016-2024,Neighbour_ratio,438.0,0.7336377473363774,0.15379904708460762
+Exp 1 (one-at-a-time),8,2016-2024,HistGB_own,438.0,0.7077625570776256,0.1434848867638491
+Exp 1 (one-at-a-time),8,2016-2024,HistGB_nb,438.0,0.7397260273972602,0.20463560238652212
+Exp 1 (one-at-a-time),8,2016-2024,Clim_freq_station,438.0,0.7146118721461188,0.10731499795775531
+Exp 1 (one-at-a-time),8,2016-2024,Clim_freq_network,438.0,0.6666666666666666,0.03446690293468426
+Exp 1 (one-at-a-time),8,2016-2024,Clim_conc,438.0,0.7092846270928462,0.1254407636473239
+Exp 1 (one-at-a-time),8,2016-2024,Station_risk,438.0,0.7092846270928462,0.11941391349438732
+Exp 1 (one-at-a-time),6,2008-2015,Observation-only,390.0,0.5,
+Exp 1 (one-at-a-time),6,2008-2015,Persistence,390.0,0.5551282051282052,0.11095555749223984
+Exp 1 (one-at-a-time),6,2008-2015,Neighbour_ratio,390.0,0.5512820512820513,0.14506035651319982
+Exp 1 (one-at-a-time),6,2008-2015,HistGB_own,390.0,0.6153846153846154,0.18626765757062386
+Exp 1 (one-at-a-time),6,2008-2015,HistGB_nb,390.0,0.6346153846153846,0.22444964317648075
+Exp 1 (one-at-a-time),6,2008-2015,Clim_freq_station,390.0,0.6102564102564103,0.15166372750346513
+Exp 1 (one-at-a-time),6,2008-2015,Clim_freq_network,390.0,0.5,0.030809323003526106
+Exp 1 (one-at-a-time),6,2008-2015,Clim_conc,390.0,0.6115384615384616,0.1522676634253843
+Exp 1 (one-at-a-time),6,2008-2015,Station_risk,390.0,0.5974358974358974,0.19044063949489495
+Exp 1 (one-at-a-time),6,2016-2024,Observation-only,438.0,0.5,
+Exp 1 (one-at-a-time),6,2016-2024,Persistence,438.0,0.5593607305936074,0.0976188421192102
+Exp 1 (one-at-a-time),6,2016-2024,Neighbour_ratio,438.0,0.5787671232876712,0.15502880271311323
+Exp 1 (one-at-a-time),6,2016-2024,HistGB_own,438.0,0.5582191780821918,0.13626485232225524
+Exp 1 (one-at-a-time),6,2016-2024,HistGB_nb,438.0,0.593607305936073,0.19902896726800418
+Exp 1 (one-at-a-time),6,2016-2024,Clim_freq_station,438.0,0.5605022831050228,0.10731238219906761
+Exp 1 (one-at-a-time),6,2016-2024,Clim_freq_network,438.0,0.5,0.034234897609988
+Exp 1 (one-at-a-time),6,2016-2024,Clim_conc,438.0,0.5593607305936074,0.1254407636473239
+Exp 1 (one-at-a-time),6,2016-2024,Station_risk,438.0,0.5388127853881278,0.11941391349438732
+Exp 1 (one-at-a-time),4,2008-2015,Observation-only,390.0,0.3333333333333333,
+Exp 1 (one-at-a-time),4,2008-2015,Persistence,390.0,0.3888888888888889,0.10149109950358698
+Exp 1 (one-at-a-time),4,2008-2015,Neighbour_ratio,390.0,0.38461538461538464,0.1375872769954707
+Exp 1 (one-at-a-time),4,2008-2015,HistGB_own,390.0,0.46495726495726497,0.18419603880377378
+Exp 1 (one-at-a-time),4,2008-2015,HistGB_nb,390.0,0.488034188034188,0.2188237861817927
+Exp 1 (one-at-a-time),4,2008-2015,Clim_freq_station,390.0,0.4666666666666667,0.15166634552914465
+Exp 1 (one-at-a-time),4,2008-2015,Clim_freq_network,390.0,0.3333333333333333,0.03080944269765203
+Exp 1 (one-at-a-time),4,2008-2015,Clim_conc,390.0,0.46495726495726497,0.1522676634253843
+Exp 1 (one-at-a-time),4,2008-2015,Station_risk,390.0,0.46324786324786327,0.19044063949489495
+Exp 1 (one-at-a-time),4,2016-2024,Observation-only,438.0,0.3333333333333333,
+Exp 1 (one-at-a-time),4,2016-2024,Persistence,438.0,0.3828006088280061,0.08632299773042845
+Exp 1 (one-at-a-time),4,2016-2024,Neighbour_ratio,438.0,0.3980213089802131,0.1410347686320909
+Exp 1 (one-at-a-time),4,2016-2024,HistGB_own,438.0,0.3843226788432268,0.12487242729829724
+Exp 1 (one-at-a-time),4,2016-2024,HistGB_nb,438.0,0.4292237442922374,0.19159453407165342
+Exp 1 (one-at-a-time),4,2016-2024,Clim_freq_station,438.0,0.4003044140030441,0.10729843936285699
+Exp 1 (one-at-a-time),4,2016-2024,Clim_freq_network,438.0,0.3333333333333333,0.03474351984508371
+Exp 1 (one-at-a-time),4,2016-2024,Clim_conc,438.0,0.4033485540334855,0.1254407636473239
+Exp 1 (one-at-a-time),4,2016-2024,Station_risk,438.0,0.3850837138508371,0.11941391349438732
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, synchronised [Observation only]",390.0,0.3333333333333333,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, synchronised [Persistence]",390.0,0.3888888888888889,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, synchronised [Neighbour-ratio rule]",390.0,0.3888888888888889,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, synchronised [HistGB + neighbours]",390.0,0.46495726495726497,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, staggered [Observation only]",390.0,0.3333333333333333,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, staggered [Persistence]",390.0,0.3888888888888889,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, staggered [Neighbour-ratio rule]",390.0,0.382051282051282,
+Exp 5 (allocation),4,2008-2015,"Uniform 4/yr, staggered [HistGB + neighbours]",390.0,0.46923076923076923,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 31 monthly, others 3/yr [Observation only]",390.0,0.6230769230769231,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 31 monthly, others 3/yr [Persistence]",390.0,0.632051282051282,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 31 monthly, others 3/yr [Neighbour-ratio rule]",390.0,0.6410256410256411,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]",390.0,0.6358974358974359,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 56 monthly, others 2/yr [Observation only]",390.0,0.7029914529914529,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 56 monthly, others 2/yr [Persistence]",390.0,0.7068376068376069,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 56 monthly, others 2/yr [Neighbour-ratio rule]",390.0,0.7175213675213675,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]",390.0,0.714957264957265,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 76 monthly, others 1/yr [Observation only]",390.0,0.7602564102564102,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 76 monthly, others 1/yr [Persistence]",390.0,0.7647435897435897,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 76 monthly, others 1/yr [Neighbour-ratio rule]",390.0,0.7715811965811966,
+Exp 5 (allocation),4,2008-2015,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]",390.0,0.7683760683760684,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, synchronised [Observation only]",438.0,0.3333333333333333,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, synchronised [Persistence]",438.0,0.3828006088280061,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, synchronised [Neighbour-ratio rule]",438.0,0.3828006088280061,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, synchronised [HistGB + neighbours]",438.0,0.3797564687975647,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, staggered [Observation only]",438.0,0.3333333333333333,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, staggered [Persistence]",438.0,0.3828006088280061,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, staggered [Neighbour-ratio rule]",438.0,0.3873668188736682,
+Exp 5 (allocation),4,2016-2024,"Uniform 4/yr, staggered [HistGB + neighbours]",438.0,0.3964992389649924,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 31 monthly, others 3/yr [Observation only]",438.0,0.5154109589041096,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 31 monthly, others 3/yr [Persistence]",438.0,0.5399543378995434,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 31 monthly, others 3/yr [Neighbour-ratio rule]",438.0,0.559931506849315,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]",438.0,0.5325342465753424,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 56 monthly, others 2/yr [Observation only]",438.0,0.587138508371385,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 56 monthly, others 2/yr [Persistence]",438.0,0.610730593607306,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 56 monthly, others 2/yr [Neighbour-ratio rule]",438.0,0.6236681887366818,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]",438.0,0.6015981735159818,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 76 monthly, others 1/yr [Observation only]",438.0,0.6630517503805176,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 76 monthly, others 1/yr [Persistence]",438.0,0.6750380517503806,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 76 monthly, others 1/yr [Neighbour-ratio rule]",438.0,0.6860730593607306,
+Exp 5 (allocation),4,2016-2024,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]",438.0,0.6719939117199392,

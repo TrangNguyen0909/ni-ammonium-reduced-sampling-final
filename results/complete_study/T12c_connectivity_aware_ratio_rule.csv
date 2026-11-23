@@ -1,0 +1,4 @@
+neighbour choice,PR-AUC,d vs primary rule,95% CI low,95% CI high
+nearest neighbour within 15 km (primary rule),0.13867267089638574,0.0,,
+"same river > same basin > nearest, 15 km",0.14460627808666568,0.005933607190279938,-0.005950381126301741,0.01739393841170232
+"same river > same basin > nearest, 25 km",0.14229831218537808,0.003625641288992343,-0.00906672766296033,0.015829782191627683

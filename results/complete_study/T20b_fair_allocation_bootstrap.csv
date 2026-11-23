@@ -1,0 +1,49 @@
+threshold,cluster,comparison,d recall,95% CI low,95% CI high
+0.2,station,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.13960155490767734,0.07776136148904009,0.1993669042614778
+0.2,station,"Risk-based: 31 monthly, others 3/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.11452866861030131,0.04589660108389576,0.17890753355234937
+0.2,station,"Risk-based: 31 monthly, others 3/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.18581146744412053,0.1014792163882259,0.25476249638452836
+0.2,station,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Risk-based: 31 monthly, others 3/yr [Observation only]",0.02507288629737603,0.012916802569491135,0.04068326577880719
+0.2,station,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.23420796890184647,0.1695315595933377,0.2987537577715313
+0.2,station,"Risk-based: 56 monthly, others 2/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2144800777453839,0.14443158512313012,0.2809686144161996
+0.2,station,"Risk-based: 56 monthly, others 2/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.28231292517006806,0.2016116998821496,0.35127843402706777
+0.2,station,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Risk-based: 56 monthly, others 2/yr [Observation only]",0.019727891156462563,0.010565217226267201,0.03171442318336651
+0.2,station,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.29071914480077743,0.22446468427738425,0.35483771623408356
+0.2,station,"Risk-based: 76 monthly, others 1/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2812925170068027,0.21232175377891094,0.3485563328071937
+0.2,station,"Risk-based: 76 monthly, others 1/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.3449465500485909,0.26874036626691894,0.4078359857864089
+0.2,station,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Risk-based: 76 monthly, others 1/yr [Observation only]",0.00942662779397474,0.004248541850935189,0.01624360124166626
+0.3,station,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.1504629629629629,0.08746218645115704,0.21033515535097808
+0.3,station,"Risk-based: 31 monthly, others 3/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.13536634460547503,0.06889793860596781,0.19587984957180352
+0.3,station,"Risk-based: 31 monthly, others 3/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.19766505636070858,0.11163294191919193,0.2709252546607144
+0.3,station,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Risk-based: 31 monthly, others 3/yr [Observation only]",0.015096618357487879,0.007214060974918004,0.025134309767701334
+0.3,station,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.22423510466988728,0.1565278685197049,0.29413686497326197
+0.3,station,"Risk-based: 56 monthly, others 2/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.21095008051529784,0.14029751564431212,0.28363326686606843
+0.3,station,"Risk-based: 56 monthly, others 2/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.2703301127214171,0.1862105679944459,0.3451928653498933
+0.3,station,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Risk-based: 56 monthly, others 2/yr [Observation only]",0.013285024154589431,0.005717744813172321,0.023293681772144786
+0.3,station,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.28663446054750397,0.21802350458878034,0.35509818936764004
+0.3,station,"Risk-based: 76 monthly, others 1/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2780797101449275,0.20392516005215425,0.34898825825322305
+0.3,station,"Risk-based: 76 monthly, others 1/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.33162238325281806,0.25013745061975784,0.39806059555643586
+0.3,station,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Risk-based: 76 monthly, others 1/yr [Observation only]",0.008554750402576472,0.002931372896612694,0.017411458530346376
+0.2,year,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.13960155490767734,0.12339821166802051,0.16061762653984177
+0.2,year,"Risk-based: 31 monthly, others 3/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.11452866861030131,0.09582402163878315,0.13715069488455076
+0.2,year,"Risk-based: 31 monthly, others 3/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.18581146744412053,0.15797292743128685,0.21801528647893675
+0.2,year,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Risk-based: 31 monthly, others 3/yr [Observation only]",0.02507288629737603,0.019417287282156418,0.03037664080994811
+0.2,year,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.23420796890184647,0.21892596653543211,0.25508343762718766
+0.2,year,"Risk-based: 56 monthly, others 2/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2144800777453839,0.19925489430304183,0.23568342339521142
+0.2,year,"Risk-based: 56 monthly, others 2/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.28231292517006806,0.25836744483530544,0.31210848022517934
+0.2,year,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Risk-based: 56 monthly, others 2/yr [Observation only]",0.019727891156462563,0.014182842992503738,0.024542848785111773
+0.2,year,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.29071914480077743,0.26916695112694544,0.3135226860704652
+0.2,year,"Risk-based: 76 monthly, others 1/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2812925170068027,0.26004825193431336,0.3057930186382351
+0.2,year,"Risk-based: 76 monthly, others 1/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.3449465500485909,0.31843446425611693,0.37419679337688305
+0.2,year,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Risk-based: 76 monthly, others 1/yr [Observation only]",0.00942662779397474,0.005210934932324704,0.012980675942062009
+0.3,year,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.1504629629629629,0.12772611128723377,0.17147272896571672
+0.3,year,"Risk-based: 31 monthly, others 3/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.13536634460547503,0.10962740757999383,0.15992025105807356
+0.3,year,"Risk-based: 31 monthly, others 3/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.19766505636070858,0.15965799631254196,0.2314349510308548
+0.3,year,"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours]  minus  Risk-based: 31 monthly, others 3/yr [Observation only]",0.015096618357487879,0.008209073224738947,0.022189531305598566
+0.3,year,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.22423510466988728,0.2044517413713153,0.2459755447792312
+0.3,year,"Risk-based: 56 monthly, others 2/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.21095008051529784,0.1912527371964571,0.2330062069645403
+0.3,year,"Risk-based: 56 monthly, others 2/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.2703301127214171,0.23907547672903076,0.30254166327251
+0.3,year,"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours]  minus  Risk-based: 56 monthly, others 2/yr [Observation only]",0.013285024154589431,0.008101809237440688,0.017932586057827774
+0.3,year,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.28663446054750397,0.2563668165548245,0.31514444723251434
+0.3,year,"Risk-based: 76 monthly, others 1/yr [Observation only]  minus  Uniform 4/yr, staggered [HistGB + neighbours]",0.2780797101449275,0.2503334703260665,0.30696121217924166
+0.3,year,"Risk-based: 76 monthly, others 1/yr [Persistence]  minus  Uniform 4/yr, staggered [Persistence]",0.33162238325281806,0.3005600706677224,0.3661995656370656
+0.3,year,"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours]  minus  Risk-based: 76 monthly, others 1/yr [Observation only]",0.008554750402576472,0.0018675466793658586,0.014186437044103403

@@ -1,0 +1,13 @@
+comparison,level,difference,95% CI low,95% CI high
+"Risk-based: 31 monthly, others 3/yr  minus  Uniform 4/yr, staggered",recorded exceedances,0.2327898550724638,0.12839161538219704,0.33261278623377116
+"Risk-based: 31 monthly, others 3/yr  minus  Uniform 4/yr, staggered",station-years with an exceedance,0.05772900763358774,0.0066521508035759375,0.10973297841068183
+"Risk-based: 31 monthly, others 3/yr  minus  Uniform 4/yr, staggered",stations with an exceedance,-0.029835390946502005,-0.055401672979798,0.0005521072065190407
+"Risk-based: 56 monthly, others 2/yr  minus  Uniform 4/yr, staggered",recorded exceedances,0.3083735909822867,0.20392907924004947,0.4019687912478425
+"Risk-based: 56 monthly, others 2/yr  minus  Uniform 4/yr, staggered",station-years with an exceedance,0.11991094147582687,0.050924033363082044,0.18702119640866807
+"Risk-based: 56 monthly, others 2/yr  minus  Uniform 4/yr, staggered",stations with an exceedance,-0.09465020576131677,-0.12356718496579935,-0.05987896002866055
+"Risk-based: 76 monthly, others 1/yr  minus  Uniform 4/yr, staggered",recorded exceedances,0.3755032206119164,0.2773306500831572,0.45758693531488737
+"Risk-based: 76 monthly, others 1/yr  minus  Uniform 4/yr, staggered",station-years with an exceedance,0.17541348600508894,0.09379032624500189,0.24760255584192434
+"Risk-based: 76 monthly, others 1/yr  minus  Uniform 4/yr, staggered",stations with an exceedance,-0.13425925925925908,-0.1855956032719838,-0.07923659164407658
+"Risk-based: 56 monthly, others 2/yr, re-ranked every 3 yr  minus  Uniform 4/yr, staggered",recorded exceedances,0.3232689210950082,0.2254046659153912,0.4106216954560849
+"Risk-based: 56 monthly, others 2/yr, re-ranked every 3 yr  minus  Uniform 4/yr, staggered",station-years with an exceedance,0.12499999999999994,0.06262923637923638,0.1913038595023182
+"Risk-based: 56 monthly, others 2/yr, re-ranked every 3 yr  minus  Uniform 4/yr, staggered",stations with an exceedance,-0.09465020576131677,-0.1315221630053296,-0.053073947646109045

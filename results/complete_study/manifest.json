@@ -1,0 +1,139 @@
+{
+ "seed": 42,
+ "fast_mode": false,
+ "stations": 281,
+ "eval_station_years": 2788,
+ "dev_station_years": 843,
+ "chosen": {
+  "HistGB_own": 4,
+  "HistGB_nb": 4
+ },
+ "config": {
+  "thresholds": [
+   0.2,
+   0.3,
+   0.4,
+   0.6
+  ],
+  "primary": 0.3,
+  "sel_window": [
+   1995,
+   2007
+  ],
+  "min_complete_years": 8,
+  "dev_complete_years": 3,
+  "complete_months": 10,
+  "cohort_alternatives": {
+   "cohort: >=6 of 13 complete years, >=2 in 2005-07": [
+    6,
+    2
+   ],
+   "cohort: >=10 of 13 complete years, 3 in 2005-07": [
+    10,
+    3
+   ]
+  },
+  "dev": [
+   2005,
+   2007
+  ],
+  "eval": [
+   2008,
+   2024
+  ],
+  "blocks": [
+   2008,
+   2011,
+   2014,
+   2017,
+   2020,
+   2023
+  ],
+  "nb_k": 3,
+  "nb_km": 15.0,
+  "max_h": 3,
+  "n_groups": 10,
+  "sched": {
+   "8": [
+    [
+     2,
+     3,
+     5,
+     6,
+     8,
+     9,
+     11,
+     12
+    ],
+    [
+     1,
+     3,
+     4,
+     6,
+     7,
+     9,
+     10,
+     12
+    ],
+    [
+     1,
+     2,
+     4,
+     5,
+     7,
+     8,
+     10,
+     11
+    ]
+   ],
+   "6": [
+    [
+     1,
+     3,
+     5,
+     7,
+     9,
+     11
+    ],
+    [
+     2,
+     4,
+     6,
+     8,
+     10,
+     12
+    ]
+   ],
+   "4": [
+    [
+     1,
+     4,
+     7,
+     10
+    ],
+    [
+     2,
+     5,
+     8,
+     11
+    ],
+    [
+     3,
+     6,
+     9,
+     12
+    ]
+   ]
+  },
+  "fa_budget": 0.1,
+  "n_boot": 1000,
+  "n_boot_strata": 500,
+  "radii": [
+   2.0,
+   5.0,
+   10.0
+  ]
+ },
+ "truncation_test_max_diff": 0.0,
+ "runtime_minutes": 156.1216206908226
+}

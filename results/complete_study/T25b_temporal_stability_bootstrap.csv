@@ -1,0 +1,37 @@
+experiment,visits/yr,period,metric,comparison,difference,95% CI low,95% CI high
+Exp 1 (one-at-a-time),8,2008-2015,PR-AUC,HistGB_nb - Persistence,0.11067409023404794,0.05293632754941863,0.15088732324899415
+Exp 1 (one-at-a-time),8,2008-2015,recall (FA-budget),HistGB_nb - Persistence,0.04615384615384621,0.020831921860885207,0.07102728327197537
+Exp 1 (one-at-a-time),8,2008-2015,PR-AUC,HistGB_nb - Clim_freq_station,0.07413835122410148,0.03155237046203036,0.09836510344573751
+Exp 1 (one-at-a-time),8,2008-2015,recall (FA-budget),HistGB_nb - Clim_freq_station,0.011965811965812034,-0.010841585255089556,0.03252931253802329
+Exp 1 (one-at-a-time),8,2016-2024,PR-AUC,HistGB_nb - Persistence,0.10980904458958242,0.06478957572928845,0.15681611580363466
+Exp 1 (one-at-a-time),8,2016-2024,recall (FA-budget),HistGB_nb - Persistence,0.022070015220700068,0.002305611411961423,0.04071796338672768
+Exp 1 (one-at-a-time),8,2016-2024,PR-AUC,HistGB_nb - Clim_freq_station,0.0973206044287668,0.05823630880484264,0.12577055120236963
+Exp 1 (one-at-a-time),8,2016-2024,recall (FA-budget),HistGB_nb - Clim_freq_station,0.025114155251141468,0.004422104024332471,0.04703413872829093
+Exp 1 (one-at-a-time),6,2008-2015,PR-AUC,HistGB_nb - Persistence,0.11349408568424091,0.04967545058323494,0.15980075187142043
+Exp 1 (one-at-a-time),6,2008-2015,recall (FA-budget),HistGB_nb - Persistence,0.07948717948717943,0.029594387498743793,0.12397587670314934
+Exp 1 (one-at-a-time),6,2008-2015,PR-AUC,HistGB_nb - Clim_freq_station,0.07278591567301562,0.03161928455112233,0.09601675613371588
+Exp 1 (one-at-a-time),6,2008-2015,recall (FA-budget),HistGB_nb - Clim_freq_station,0.024358974358974272,-0.013993506493506462,0.05531965419392076
+Exp 1 (one-at-a-time),6,2016-2024,PR-AUC,HistGB_nb - Persistence,0.10141012514879398,0.056224379537341336,0.15227553983571795
+Exp 1 (one-at-a-time),6,2016-2024,recall (FA-budget),HistGB_nb - Persistence,0.03424657534246567,0.003946851749793398,0.06290866880223309
+Exp 1 (one-at-a-time),6,2016-2024,PR-AUC,HistGB_nb - Clim_freq_station,0.09171658506893657,0.05413267054857361,0.12005477897616915
+Exp 1 (one-at-a-time),6,2016-2024,recall (FA-budget),HistGB_nb - Clim_freq_station,0.03310502283105021,0.007153929139223325,0.059903574812961026
+Exp 1 (one-at-a-time),4,2008-2015,PR-AUC,HistGB_nb - Persistence,0.11733268667820573,0.05129593913958073,0.15969050175550598
+Exp 1 (one-at-a-time),4,2008-2015,recall (FA-budget),HistGB_nb - Persistence,0.09914529914529913,0.027869386938693883,0.16186228671287997
+Exp 1 (one-at-a-time),4,2008-2015,PR-AUC,HistGB_nb - Clim_freq_station,0.06715744065264806,0.021973211803308842,0.09200051549355333
+Exp 1 (one-at-a-time),4,2008-2015,recall (FA-budget),HistGB_nb - Clim_freq_station,0.021367521367521347,-0.014956624290397366,0.051011433597185574
+Exp 1 (one-at-a-time),4,2016-2024,PR-AUC,HistGB_nb - Persistence,0.10527153634122496,0.06304871517421488,0.15187079208036103
+Exp 1 (one-at-a-time),4,2016-2024,recall (FA-budget),HistGB_nb - Persistence,0.046423135464231324,0.012451749871332985,0.07970270270270272
+Exp 1 (one-at-a-time),4,2016-2024,PR-AUC,HistGB_nb - Clim_freq_station,0.08429609470879643,0.041066201520327326,0.11059728571724953
+Exp 1 (one-at-a-time),4,2016-2024,recall (FA-budget),HistGB_nb - Clim_freq_station,0.0289193302891933,-0.0016234574487001493,0.06061401833460656
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.28974358974358977,0.16158849620462687,0.39318813940627906
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.16666666666666663,0.10188833983667026,0.228461201743936
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.3696581196581196,0.24859950208513085,0.46033596447500813
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.24572649572649574,0.17725207453508185,0.32575002443076323
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.4269230769230769,0.32106994134462263,0.5025301382106732
+Exp 5 (allocation),4,2008-2015,recall (FA-budget),"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.2991452991452992,0.22876844907883023,0.3726330547054231
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 31 monthly, others 3/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.18207762557077628,0.06517743807347771,0.29305689102564103
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 31 monthly, others 3/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.13603500761035003,0.056242993117993155,0.2066161067721327
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 56 monthly, others 2/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.2538051750380517,0.13561342386263525,0.3570452771272444
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 56 monthly, others 2/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.20509893455098938,0.12232479179541507,0.2878252616836208
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 76 monthly, others 1/yr [Observation only] - Uniform 4/yr, staggered [Observation only]",0.32971841704718424,0.21844870071684586,0.4258582947986654
+Exp 5 (allocation),4,2016-2024,recall (FA-budget),"Risk-based: 76 monthly, others 1/yr [HistGB + neighbours] - Uniform 4/yr, staggered [HistGB + neighbours]",0.27549467275494677,0.1876173596090684,0.35405171506734
