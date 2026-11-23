@@ -1,0 +1,1 @@
+2a0dc9ddbeb5ed40ded4485b850d15dec587ee7ddbf74f1aa0efc03610aa65ac  RiverWaterQualityMonitoring_1990to2024_Nitrogen_NH4N.csv
